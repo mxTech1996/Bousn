@@ -42,254 +42,247 @@ export const footerData = [
 ];
 
 export const dataSite = {
-  name: 'Grafic',
-  url: 'http://www.dora.lat',
-  telephone: '5813005824',
-  email: 'admganesha@emailsecure.lat',
-  address:
-    'AV KOHUNLICH MZ 1 L 1-03, LOCAL 20, SUPERMANZANA 50, BENITO JUAREZ, CANCUN, QUINTANA ROO, C.P. 77533',
+  name: 'Bousn',
+  url: 'https://www.comercialbousn.lat/',
+  telephone: '5523021960',
+  email: 'admbousn@emailsecure.lat',
+  address: 'AV JUAREZ 428, CENTRO, TORREON, COAHUILA DE ZARAGOZA, C.P. 27000',
   description:
-    'Our website offers strategic consulting services tailored specifically for advertising agencies seeking to optimize operations, strengthen their value proposition, and scale their results. Our team of experts in marketing, account management, media planning, creativity, and digital transformation works closely with each agency to identify improvement opportunities and design customized solutions.',
-  subtitle:
-    'Consulting solutions designed to accelerate growth and creativity in advertising agencies.',
+    'At BOUSN  we provide tailored accounting solutions and auditing services to meet the specific needs of your business. Our mission is to help you maintain accurate financial records, ensure tax compliance, and offer a clear, reliable overview of your company’s financial health.\r\n\r\nWe have a team of certified public accountants and experienced auditors committed to professionalism, confidentiality, and excellence.',
+  subtitle: 'Clarity, Compliance, and Confidence in Every Report',
   image_hero:
-    'https://cms-webserver-statics.s3.amazonaws.com/media/websites/graf._1.jpg',
+    'https://cms-webserver-statics.s3.amazonaws.com/media/websites/bo_1.jpg',
   image_hero2:
-    'https://cms-webserver-statics.s3.amazonaws.com/media/websites/graf_2.jpg',
+    'https://cms-webserver-statics.s3.amazonaws.com/media/websites/bo_2.jpg',
   iconImage:
-    'https://cms-webserver-statics.s3.amazonaws.com/media/websites/grafic-colors-ganesha-sa-de-cv-high-resolution-logo.png',
+    'https://cms-webserver-statics.s3.amazonaws.com/media/websites/grupo-comercial-bousn-sa-de-cv-high-resolution-logo.png',
   info: [
     {
-      title: 'Why Choose Us',
+      title: 'Values',
       description:
-        'We speak your language: advertising is in our DNA,We offer customized solutions, not one-size-fits-all plans,Proven track record with agencies of all sizes.',
+        "Integrity ,We uphold the highest ethical standards, ensuring transparency and honesty in every financial process,Professionalism ,Our team is committed to delivering accurate, timely, and reliable services with the utmost attention to detail,Client Focus , We build long-term relationships by understanding our clients' needs and providing personalized solutions that support their growth.",
     },
     {
-      title: 'Operational & Process Consulting',
+      title: 'Types of audits',
       description:
-        'Workflow audits,Team structure optimization,Agency management systems (AMS) recommendations',
+        'Financial Audit,Internal Audit,External Audit,Tax Audit,Operational Audit,Compliance Audit.',
     },
     {
-      title: 'Strategic Positioning & Branding',
+      title: 'Our Clients',
       description:
-        'Brand identity for agencies,Value proposition definition,Go to market strategy',
+        'We are proud to serve a diverse portfolio of clients across various industries. From small businesses to large corporations, our clients trust us to provide accurate, compliant, and insightful financial services tailored to their unique needs.',
     },
     {
-      title: 'Pitch & Business Development Support',
+      title: 'Scope',
       description:
-        'RFP and pitch deck development,Competitive research,New business strategy',
+        'We offer comprehensive accounting and auditing solutions designed to meet the financial and regulatory needs of businesses of all sizes. Our services go beyond simple bookkeeping ,we provide strategic financial insight, ensure compliance, and help you make informed decisions.',
     },
     {
-      title: 'Scope of Services',
+      title: 'Tax Advisory & Compliance',
       description:
-        'Agency Positioning & Brand Strategy,Analysis and redefinition of the agency’s market position,Development of narrative and brand storytelling,Rebranding support (naming, visual identity, tone of voice).',
-    },
-    {
-      title: 'Geographic Reach',
-      description:
-        'Services available to agencies worldwide,Delivery formats, remote and on-site (based on location)\r\nConsulting available in English and Spanish.',
+        'Tax planning, preparation, and submission of returns in compliance with current regulations.',
     },
   ],
   services: [
     {
-      title: 'Agency Repositioning',
+      title: 'Payroll Services',
       description:
-        'Strategic brand and market perception analysis,Redefinition of purpose, vision, and core values,Alignment of internal and external communications with new positioning.',
+        'Comprehensive payroll management, including salary processing, deductions, and employee tax filings.',
       image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/services/graf._3.jpg',
+        'https://cms-webserver-statics.s3.amazonaws.com/media/services/bo_6.jpg',
     },
     {
-      title: 'Support in Private and Public Pitches',
+      title: 'Financial Accounting',
       description:
-        'Review and enhancement of commercial presentations,Preparation of responses to briefs and formal RFPs,Pitch simulation sessions with expert feedback.',
+        'Accurate recording and reporting of financial transactions in compliance with accounting standards.',
       image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/services/graf_4.jpg',
+        'https://cms-webserver-statics.s3.amazonaws.com/media/services/bo_3.jpg',
     },
     {
-      title: 'Process and Document Standardization',
+      title: 'Tax Preparation and Compliance',
       description:
-        'Creation of professional templates (briefs, quotes, contracts, reports),Development of operations manuals for creative, accounts, and media teams,Implementation of collaborative tools (Asana, Notion, Monday, etc.)',
+        'Preparation and filing of tax returns, along with guidance to ensure full compliance with current tax laws.',
       image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/services/graf_5.jpg',
+        'https://cms-webserver-statics.s3.amazonaws.com/media/services/bo_4.jpg',
     },
     {
-      title: 'AI Integration for Creative and Operational Workflows',
+      title: 'Internal and External Audits',
       description:
-        'Training on AI tools for copywriting, design, and data analysis,Automation of repetitive tasks in campaigns and reporting,Guidance on ethical and strategic adoption of AI.',
+        'Thorough audits to evaluate financial records, assess risks, and ensure transparency for stakeholders and regulators.',
       image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/services/graf_6.jpg',
+        'https://cms-webserver-statics.s3.amazonaws.com/media/services/bo_5_.jpg',
     },
     {
-      title: 'Consulting for Agencies',
+      title: 'Financial Consulting and Advisory',
       description:
-        'Sustainability and corporate responsibility assessments,Development of actionable plans for social and environmental impact,Alignment with international ESG standards for conscious clients and tenders.',
+        'Personalized financial advice to support strategic decision-making, budgeting, and long-term business planning.',
       image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/services/graf_7.jpg',
+        'https://cms-webserver-statics.s3.amazonaws.com/media/services/bo_7_.jpg',
     },
   ],
   references: [
     {
-      name: 'Managing Partner, Creative Agency',
+      name: 'Laura Medina, Small Business Owner',
       description:
-        'The consulting team helped us restructure our workflow and redefine our positioning. Within months, our internal efficiency improved and we started attracting higher value clients. Highly recommended.',
+        'The team has been instrumental in keeping our finances organized and compliant. Their attention to detail and quick response times have exceeded our expectations.',
       rating: 5,
       image: null,
     },
     {
-      name: 'Jacobo Mendez',
+      name: 'James Campos, Logistics Firm',
       description:
-        'Their pitch coaching and proposal feedback were exactly what we needed. We went into the presentation with clarity and confidence and won the client. We’ll definitely work with them again.',
+        "We've been working with [Company Name] for over three years now. Their audit services are thorough, professional, and always delivered on time. Highly recommended",
       rating: 5,
       image: null,
     },
     {
-      name: 'Wilson Urrieta',
+      name: 'Nina Sandoval ,Tech Entrepreneur',
       description:
-        'Their pitch coaching and proposal feedback were exactly what we needed. We went into the presentation with clarity and confidence and won the client. We’ll definitely work with them again.',
+        'As a startup founder, I needed reliable accounting support from day one,helped me set up everything from payroll to tax filings ,hassle free.',
       rating: 5,
       image: null,
     },
     {
-      name: 'Ryan Keller, Co Founder',
+      name: 'Carlos D., Director, Nonprofit Organization',
       description:
-        'From onboarding to final delivery, the experience was smooth and insightful. Their recommendations were not only strategic but also practical and easy to implement.',
+        'Their financial advisory services gave us the insight we needed to restructure and grow sustainably. Truly a partner you can trust.',
       rating: 5,
       image: null,
     },
     {
-      name: 'Romero Matias',
+      name: 'Emma Terries, Manager, Real Estate Company',
       description:
-        'We were growing fast but lacked structure. The consultants helped us define roles, streamline operations, and plan for sustainable growth. Our team is now more aligned than ever.',
+        'Thanks to BOUSN our annual audit went smoothly and with no surprises. Their professionalism gave us total peace of mind.',
       rating: 5,
       image: null,
     },
   ],
   products: [
     {
-      id: 722,
-      name: 'Creative Brief Template Bundle',
+      id: 730,
+      name: 'Monthly Accounting Packages',
       category: null,
       description:
-        'The Creative Brief Template Bundle is a comprehensive collection of templates tailored for various creative and marketing projects. These templates serve as structured documents that outline the objectives, target audience, deliverables, and other essential details of a project, ensuring alignment among all stakeholders.',
+        'Our Monthly Accounting Packages are tailored solutions designed to help small and medium-sized businesses stay on top of their financial responsibilities with ease and accuracy. These packages provide ongoing, month to month accounting services to ensure your business remains compliant, financially healthy, and well-prepared for growth.',
       price: '499.99',
       stock: 100,
       content:
-        'Multiple Formats,Available in various formats including PDF, Microsoft Word, and Google Docs, allowing for easy customization and accessibility,Versatility,Suitable for a wide range of projects such as branding, advertising campaigns, website design, social media strategies, and more,Comprehensive Sections,Typically includes sections like project overview, objectives, target audience, key messages, tone and style, deliverables, timeline, and budget.',
+        'Bookkeeping Services,Recording daily financial transactions,Bank and credit card reconciliations,Chart of accounts management,Monthly Financial Reports,Profit & Loss Statement\r\nBalance Sheet,Cash Flow Report',
       product_type: 'NORMAL',
       image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/graf_8.jpg',
+        'https://cms-webserver-statics.s3.amazonaws.com/media/products/bo_8_.jpg',
       image2: null,
       image3: null,
     },
     {
-      id: 723,
-      name: 'Client Onboarding Kit',
+      id: 731,
+      name: 'Annual Financial Statement Preparation',
       category: null,
       description:
-        'A complete kit to help agencies streamline the client onboarding process. Includes checklists, email templates, contract samples, and detailed guides for setting expectations and building strong relationships from day one.',
-      price: '599.99',
+        'Our Annual Financial Statement Preparation service is designed to deliver accurate, professional, and compliant financial reports for your business at the end of each fiscal year. These statements provide a clear overview of your company’s financial performance and position, supporting informed decision-making, investor relations, tax compliance, and audit readiness.',
+      price: '899.99',
       stock: 100,
       content:
-        'The Client Onboarding Kit typically includes a suite of customizable templates and tools aimed at facilitating the onboarding process. These resources are particularly beneficial for service based businesses, freelancers, and agencies looking to enhance their client engagement from the outset.',
+        'Income Statement (Profit & Loss Statement): Summarizes revenues, costs, and expenses,Balance Sheet: Shows assets, liabilities, and equity at year end,Cash Flow Statement,Tracks the flow of cash in and out of the business,Statement of Changes in Equity (if applicable),General Ledger Review & Cleanup.',
       product_type: 'NORMAL',
       image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/graf_9_.jpg',
+        'https://cms-webserver-statics.s3.amazonaws.com/media/products/bo_9_.jpg',
       image2: null,
       image3: null,
     },
     {
-      id: 725,
-      name: 'Pitching and Negotiation Masterclass',
+      id: 732,
+      name: 'Tax Filing Solutions',
       category: null,
       description:
-        'The Pitching and Negotiation Masterclass is a structured course aimed at professionals seeking to improve their ability to pitch concepts and negotiate deals successfully. It encompasses a range of techniques and strategies to build confidence and achieve favorable outcomes in various business scenarios.',
+        "Our Tax Filing Solutions service provides businesses and individuals with accurate, timely, and hassle free tax preparation and filing. Whether you're dealing with simple returns or complex tax scenarios, our experienced tax professionals ensure full compliance with local, state, and federal tax laws. We help you maximize deductions, reduce liabilities, and avoid penalties giving you peace of mind throughout tax season and beyond.",
+      price: '699.99',
+      stock: 100,
+      content:
+        'Comprehensive Tax Preparation,Business and personal income tax returns (LLC, Corp, Sole Proprietor, etc.),Federal, state, and local tax filings,Preparation of all necessary tax forms and schedules,Maximization of Deductions & Credits,Review of eligible business expenses and deductions,Application of available tax credits and incentives,Year round tax saving strategies',
+      product_type: 'NORMAL',
+      image:
+        'https://cms-webserver-statics.s3.amazonaws.com/media/products/bo_10.jpg',
+      image2: null,
+      image3: null,
+    },
+    {
+      id: 733,
+      name: 'Internal Audit Program',
+      category: null,
+      description:
+        'Our Internal Audit Program is a comprehensive service designed to evaluate, enhance, and safeguard the internal controls, risk management practices, and operational effectiveness of your organization. By conducting independent and objective reviews, we help identify areas of improvement, ensure compliance with regulations, and strengthen governance structures.',
       price: '799.99',
       stock: 100,
       content:
-        'Comprehensive Curriculum,Covers essential topics such as crafting compelling pitches, understanding negotiation dynamics, and handling objections,Expert Instruction, Led by seasoned professionals with extensive experience in sales, marketing, and negotiation,Interactive Exercises Includes practical activities and role playing scenarios to apply learned concepts in real world situations.',
+        'Risk Based Audit Planning,Custom audit plans based on business size, industry, and risk profile\r\nFocus on high impact areas such as finance, operations, IT, and compliance,Evaluation of Internal Controls,Assessment of the effectiveness and efficiency of existing controls,Identification of control gaps, weaknesses, or redundancies,Recommendations for control enhancements and monitoring systems.',
       product_type: 'NORMAL',
       image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/graf_11.jpg',
+        'https://cms-webserver-statics.s3.amazonaws.com/media/products/bo_11.jpg',
       image2: null,
       image3: null,
     },
     {
-      id: 724,
-      name: 'Social Media Strategy Planner',
+      id: 734,
+      name: 'Payroll Management System',
       category: null,
       description:
-        'The Social Media Strategy Planner is a structured guide that assists in developing a cohesive social media strategy. It typically includes templates, worksheets, and calendars to organize content, track performance, and align social media activities with business objectives.',
-      price: '599.99',
-      stock: 100,
-      content:
-        'Goal Setting Framework,Helps define clear objectives such as brand awareness, lead generation, or customer engagement,Audience Analysis Tools,Assists in identifying target demographics, understanding their behaviors, and tailoring content accordingly,Content Planning Templates, Provides structures for planning posts, including content themes, formats, and publishing schedules.',
-      product_type: 'NORMAL',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/graf_10.jpg',
-      image2: null,
-      image3: null,
-    },
-    {
-      id: 726,
-      name: 'Market Research Toolkit',
-      category: null,
-      description:
-        'A set of tools and templates to conduct market research for agency clients. Includes audience segmentation guides, survey templates, competitor analysis worksheets, and customer persona templates.',
+        'Our Payroll Management System is an all in-one solution designed to simplify and automate the payroll process for businesses of any size. It ensures employees are paid accurately and on time while staying fully compliant with tax regulations and labor laws. From salary calculations to tax filings and reporting, this system offers a streamlined, secure, and user friendly platform to manage payroll efficiently and reduce administrative burden.',
       price: '899.99',
       stock: 100,
       content:
-        'Data Collection Tools,Surveys, questionnaires, and feedback forms to gather primary data directly from consumers,Analytical Software,Platforms that process and analyze data to uncover patterns, correlations, and insights,Visualization Dashboards, Tools that present data in charts, graphs, and maps for easier interpretation and reporting.',
+        'Employee Self Service Portal,Secure access to payslips, tax documents, and leave balances,Ability to update personal information and banking details,Request and track time off or sick leave,Direct Deposit & Payment Options,Seamless direct deposit into employee bank accounts,Paper check and prepaid card options .',
       product_type: 'NORMAL',
       image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/graf_12.jpg',
+        'https://cms-webserver-statics.s3.amazonaws.com/media/products/bo_12.jpg',
       image2: null,
       image3: null,
     },
     {
-      id: 727,
-      name: 'Brand Audit and Health Check Report',
+      id: 735,
+      name: 'Financial Health Diagnostic',
       category: null,
       description:
-        "A comprehensive report that agencies can use to assess the health of their brand or their clients' brands. It covers key areas like market perception, visual identity, messaging, and competitive positioning.",
+        'Our Financial Health Diagnostic is a comprehensive financial assessment service that evaluates the overall financial condition and performance of your business. This diagnostic identifies strengths, weaknesses, risks, and opportunities by analyzing key financial data and operational metrics. With this in depth insight, business owners and managers can make informed decisions, improve financial strategies, and boost long-term profitability and sustainability.',
+      price: '899.99',
+      stock: 100,
+      content:
+        'Comprehensive Financial Analysis,Review of income statements, balance sheets, and cash flow statements,Profitability, liquidity, solvency, and efficiency ratio analysis,Assessment of revenue streams and cost structure,Cash Flow Evaluation,In-depth analysis of cash inflows and outflows\r\nIdentification of cash management issues,Suggestions for improving liquidity.',
+      product_type: 'NORMAL',
+      image:
+        'https://cms-webserver-statics.s3.amazonaws.com/media/products/bo_13.jpg',
+      image2: null,
+      image3: null,
+    },
+    {
+      id: 736,
+      name: 'Compliance & Regulatory Reporting',
+      category: null,
+      description:
+        'We ensure that your organization stays compliant with applicable financial, tax, environmental, or industry specific requirements while reducing the risk of penalties, audits, and reputational damage. This service supports ongoing compliance and promotes transparency, accountability, and good corporate governance.',
       price: '999.99',
       stock: 100,
       content:
-        "Enhanced Brand Consistency,Ensures that all brand elements align with the company's mission and values, providing a cohesive brand experience,Improved Customer Engagement,By understanding customer perceptions and preferences, businesses can tailor their strategies to better meet audience needs,Strategic Decision,Making,Offers data driven insights that inform marketing strategies, product development, and overall business planning.",
+        'Ideal For,Medium to large enterprises with complex reporting obligations,Regulated industries (e.g., finance, energy, pharmaceuticals),Companies operating across multiple jurisdictions,Businesses looking to strengthen compliance and minimize risk.',
       product_type: 'NORMAL',
       image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/graf_13.jpg',
+        'https://cms-webserver-statics.s3.amazonaws.com/media/products/bo_14.jpg',
       image2: null,
       image3: null,
     },
     {
-      id: 728,
-      name: 'Time Management and Productivity System',
+      id: 737,
+      name: 'Business Start up Accounting Kit',
       category: null,
       description:
-        'A productivity toolkit specifically designed for agency teams. Includes time tracking sheets, project management templates, and productivity hacks for maximizing efficiency and minimizing delays.',
-      price: '899.99',
-      stock: 100,
-      content:
-        'Increased Productivity,Achieve more in less time by focusing on key tasks and eliminating distractions,Reduced Stress,A clear and structured plan decreases uncertainty and work overload, improving overall well being,Better Decision Making,With a clear view of your priorities and goals, you can make more informed and effective decisions.',
-      product_type: 'NORMAL',
-      image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/graf_14.jpg',
-      image2: null,
-      image3: null,
-    },
-    {
-      id: 729,
-      name: 'Data Driven Campaign Optimization Guide',
-      category: null,
-      description:
-        'A guide focused on using data to optimize advertising campaigns. It includes step-by-step instructions for tracking campaign metrics, interpreting results, and making data-driven adjustments to improve performance.',
+        'The Business Start-up Accounting Kit is a comprehensive package designed specifically for new entrepreneurs and start ups to establish a solid financial foundation from day one. This kit provides all the essential tools, templates, and expert guidance you need to set up your accounting systems, stay compliant, and make informed financial decisions as you launch and grow your business.',
       price: '1099.99',
       stock: 100,
       content:
-        'Enhanced Campaign Performance,By integrating advanced analytics and testing methodologies, campaigns can achieve higher engagement and conversion rates,Personalized User Experiences,Dynamic content optimization ensures that users receive ads tailored to their preferences and behaviors,Efficient Resource Allocation, Uplift modeling and behavioral segmentation enable marketers to focus efforts on high-impact segments, optimizing budget utilization',
+        'Bokkeeping Templates & Tools,Excel based income & expense trackers,Invoice and receipt templates,Bank reconciliation worksheet,Accounting Software Integration,Setup and configuration support for QuickBooks, Xero, or Wave,Tutorials and best practices for daily use,Recommendations based on business size and industry.',
       product_type: 'NORMAL',
       image:
-        'https://cms-webserver-statics.s3.amazonaws.com/media/products/graf_15.jpg',
+        'https://cms-webserver-statics.s3.amazonaws.com/media/products/bo_15.jpg',
       image2: null,
       image3: null,
     },
